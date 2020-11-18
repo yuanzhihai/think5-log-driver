@@ -2,7 +2,7 @@
 think5-log-driver
 
 ## 依赖
-适用于`thinkphp5.*`
+适用于`thinkphp5.1.*`
 php: >=5.6
 
 ## 安装 
